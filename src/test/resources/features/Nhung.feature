@@ -1,5 +1,5 @@
 @smoke
-Feature: Smoke step_ More
+Feature: Smoke step_ More_Nhung try
 
   @smoke1
   Scenario: Predefined steps for Google
