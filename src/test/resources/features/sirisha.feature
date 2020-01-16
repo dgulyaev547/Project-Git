@@ -1,6 +1,5 @@
 @smoke
-Feature: Smoke steps
-
+Feature: Smoke steps test _Nhung
   @smoke1
   Scenario: Predefined steps for Google
     Given I open url "https://google.com"
