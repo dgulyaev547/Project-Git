@@ -1,5 +1,5 @@
 @predefined
-Feature: Smoke good
+Feature: Smoke something
 
   @predefined1
   Scenario: Predefined steps for Google
