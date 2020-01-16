@@ -1,6 +1,7 @@
-@smoke
-Feature: Smoke steps test _Nhung
-  @smoke1
+@Oscar
+Feature: Smoke steps
+
+  @Oscar
   Scenario: Predefined steps for Google
     Given I open url "https://google.com"
     Then I should see page title as "Google"
